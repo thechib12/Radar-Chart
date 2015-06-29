@@ -1,0 +1,12 @@
+[
+{"name": "Christiaan", "values": { "Nederlands": 9.7, "Duits": 10, "Engels": 9.5, "Wiskunde": 8.2, "Natuurkunde":9.3, "Scheikunde": 8.9} },
+{"name": "Piet", "values": {"Nederlands":1, "Duits": 1, "Engels": 1, "Wiskunde": 1, "Natuurkunde":1, "Scheikunde": 1} },
+{"name": "Henk", "values": {"Nederlands": 7, "Duits": 7, "Engels": 7, "Wiskunde": 7, "Natuurkunde":7, "Scheikunde": 7} },
+{"name": "Hans", "values": {"Nederlands": 7, "Duits": 7, "Engels": 7, "Wiskunde":7, "Natuurkunde":7, "Scheikunde": 7} },
+{"name": "Theo", "values": {"Nederlands": 10, "Duits": 10, "Engels": 10, "Wiskunde": 10, "Natuurkunde":10, "Scheikunde": 10} },
+{"name": "Fred", "values": {"Nederlands": 6.7, "Duits":9.2, "Engels": 7.5, "Wiskunde": 7.2, "Natuurkunde":9, "Scheikunde": 8.2} },
+{"name": "Willem", "values": {"Nederlands": 1.7, "Duits": 9.6, "Engels": 2.5, "Wiskunde": 1.2, "Natuurkunde":7.3, "Scheikunde": 9.3} },
+{"name": "Barry", "values": {"Nederlands": 6, "Duits": 6.9, "Engels": 6.1, "Wiskunde": 6.8, "Natuurkunde":3.3, "Scheikunde": 6.8} },
+{"name": "Jan", "values": {"Nederlands": 9.7, "Duits": 10, "Engels": 9.5, "Wiskunde": 8.2, "Natuurkunde":9.3, "Scheikunde": 8.9} },
+{"name": "2 ", "values": {"Nederlands": 2, "Duits": 2, "Engels": 2, "Wiskunde": 2, "Natuurkunde":2, "Scheikunde": 2} }
+ ]

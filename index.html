@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Student Dashboard</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel = "stylesheet" type = "text/css" href="css/styles.css"/>
+	<link rel = "stylesheet" type="text/css" href="css/radar-chart.css">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
+	<script src="js/radar-chart.js"></script>
+	<script src="js/radar.js"></script>
+
+</head>
+
+
+<body onload = "getData()">	
+
+
+
+	<div class="container">
+		<h1 i align="center" > Student Dashboard </h1>
+
+		
+		
+		<div class = "row rowmargin">
+		<div class = "col-md-4">
+		</div>
+		<div class = "col-md-4">
+			<form role="form">
+	
+			<select class="form-control dropdown " id = "studentdropdown">
+				
+			</select>
+
+			<button onclick="return clickhandler();" type="submit" class="btn btn-default btndrop">Search</button>
+		
+
+		
+		</form>
+		</div>
+		<div class = "col-md-4">
+		</div>
+
+		
+
+		</div>
+
+	
+		<div class = "row"> 
+
+			<div class = "col-md-6" id= "chart">
+
+
+
+
+
+
+			</div>
+
+			<div class = "col-md-6" id="radar" >
+			</div>
+
+		</div>
+
+	</div>
+
+	<!-- page content -->
+</body>
+</html>
